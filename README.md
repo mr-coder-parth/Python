@@ -1,2 +1,2 @@
 # Python
-#This is project of my jarvis
+#This is project of my JARVIS
